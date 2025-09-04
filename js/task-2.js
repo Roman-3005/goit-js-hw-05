@@ -1,4 +1,4 @@
-
+const getUsersWithFriend = (users, friendName) => 
 
 
 
